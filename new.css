@@ -1,0 +1,200 @@
+.header{
+    width: 100%;
+    height: 75px;
+    background-color:rgb(51, 53, 69);
+    display: flex;
+    align-items: center;
+}
+body{
+    margin: 0;
+}
+.img{
+    width: 5%;
+}
+
+.left-section{
+    width: 74%;
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+.right-section{
+    width: 30%;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+}
+.first{
+    width: 33%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bt{
+    margin-left: 4%;
+    background: red;
+    border-color: red;
+    border-radius: 5px;
+    color: #fff;
+    width: 2;
+    height: 24px;
+    cursor: pointer;
+  
+}
+#input{
+    width: 20rem;
+    height: 90%;
+    padding-left: 42px;
+    padding-right: 25px;
+    border: 1px solid rgba(2,59,109,.2);
+    color: #fdfdfd;
+    border-radius: 5px;
+  background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat left;
+  background-size: 20px;
+  cursor: pointer;
+  background-color: #fdfdfd;
+}
+ .dropbtn {
+    font-size: 16px;  
+    color: white;
+    font-family: Roboto,sans-serif;
+  
+  }
+ #bar{
+    margin-left: 4%;
+    color: #fff;
+ }
+ .header1{
+     width: 100%;
+     height: 2.6rem;
+     background-color:rgb(31, 37, 51);
+     display: flex;
+     align-items: center;
+ }
+ a{
+     text-decoration: none;
+     color: rgb(204, 204, 204);
+     font-family: Roboto,sans-serif;
+     font-weight: 400;
+ }
+ a:hover{
+     color: blue;
+ }
+ .A{
+     margin-left: 10px;
+     padding-left: 10px;
+ }
+ .left{
+    margin-left: 22.5rem;
+    width: 50%;
+    display: inline-block;
+ }
+ h1{
+     cursor: pointer;
+ }
+
+ .right{
+     width: 50%;
+ }
+
+.pic{
+    width: 100%;
+    height: 100%;
+    background: url(https://in.bmscdn.com/m6/images/common/placeholder.png) 50% center no-repeat rgb(235, 235, 235);
+}
+p{
+    color: rgb(51, 51, 51);
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+}
+.Testimg {
+    object-fit: cover;
+   
+    width: 10%;
+}
+.img-section{
+    display: flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+.first-test{
+    display: flex;
+   
+    
+}
+.img1{
+    width: 20rem;
+}
+
+.first-img{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.re{
+    margin-left: 5rem;
+}
+.se{
+    margin-left: 88rem;
+    color: red;
+}
+.last-section{
+    display: flex;
+    justify-content: space-around;
+}
+.best{
+    margin-left: 2rem;
+}
+.ft{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(51, 51, 56);
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+    font-size: 8px;
+}
+.last-left.last-right{
+    font-size: 2px;
+   
+    margin-top: 5%;
+  
+
+}
+
+.last-left{
+    margin-top: 5%;
+    height: 30%;
+    width: 16%;
+ 
+    padding-left: 33%;
+    
+}
+h1:hover{
+    color: cornflowerblue;
+}
+.last-right{
+    margin-top: 5%;
+    height: 30%;
+    width: 50%;
+   
+    
+
+}
+.line{
+    background: #fff;
+    width: 47rem;
+    height: 3px;
+    margin-top: 6rem;
+    margin-left: -20rem;
+}
+.line1{
+    background-color: #fff;
+    width: 47rem;
+    height: 3px;
+    margin-top: 6rem;
+}
